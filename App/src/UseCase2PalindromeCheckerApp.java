@@ -1,6 +1,6 @@
-//version 1.0
+//version 2.0
 //author GauriNandha
-//UseCase1:WelcomePage
+//UseCase2:
 
     public class UseCase2PalindromeCheckerApp {
 
